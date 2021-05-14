@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Cursos Roverty </center> </h1>
+<div style="text-align:center"><h1> Cursos roverty </h1></div>
 
 ## Herramientas útiles
 
